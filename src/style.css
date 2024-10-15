@@ -1,0 +1,47 @@
+* {
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+body {
+
+    background-color: rgba(211, 211, 211, 0.5);
+
+}
+/* SEZIONE HEADER */
+header {
+
+    background-color: white;
+
+    height: 80px;
+
+}
+
+header img {
+
+    display: inline-block;
+
+    vertical-align: middle;
+
+    margin-top: 15px;
+
+    margin-left: 15px;
+
+}
+
+header h1 {
+
+    display: inline-block;
+
+    vertical-align: middle;
+
+    margin-top: 15px;
+
+}
+
+/* FINE SEZIONE HEADER */
