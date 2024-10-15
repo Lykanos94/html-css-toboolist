@@ -13,3 +13,11 @@ descrizione: creando un layout per una lista a scomparsa
 5. creato una  section con prima parte dell'sercizio 
 
 6. aggiunto div all'interno di section con vari span per modifiche testo
+
+7. sezione centrale  con div per today 
+
+8. creati span per contenere testi con modifiche come richiesto da esercizio
+
+9. creata ultima sezione con lo stesso procedimento delle altre
+
+10. non sono riuscito a fare le spunte e le cross piu piccole e cerchiarle in maniera corretta
