@@ -45,3 +45,57 @@ header h1 {
 }
 
 /* FINE SEZIONE HEADER */
+
+/* INIZIO MAIN SECTION */
+
+section {
+
+    background-color: white;
+
+    height: 900px;
+
+    width: 900px;
+
+    margin-top: 70px;
+
+    margin-left: 150px;
+
+}
+
+button {
+
+    margin-top: 15px;
+
+    padding: 2px;
+
+}
+
+.button-1 {
+
+    background-color: rgb(46, 162, 230);
+
+    border: none;
+
+    color: white;
+
+    margin-left: 30px;
+
+    padding: 4px;
+
+    border-radius: 5px;
+
+}
+
+.button-2 {
+
+    background-color: transparent;
+
+    border: 1px solid lightgrey ;
+
+    color: lightgray;
+
+    padding: 4px;
+
+    border-radius: 5px;
+
+}
