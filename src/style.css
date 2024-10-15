@@ -124,9 +124,13 @@ button {
 
     color: green;
 
-    border-radius: 50px;
+    border-radius: 100%;
 
-    padding: 1px;
+    padding: 3px;
+
+    font-weight: 800;
+
+    font-size: 0.8em;
 
 }
 
@@ -191,10 +195,13 @@ div {
 
     color: red;
 
-    border-radius: 50px;
+    border-radius: 100%;
 
-    padding: 1px;
+    padding: 3px;
 
+    font-weight: 800;
+
+    font-size: 0.8em;
 }
 
 .span-edit-recruiting {
@@ -227,10 +234,13 @@ div {
 
     color: red;
 
-    border-radius: 50px;
+    border-radius: 100%;
 
-    padding: 1px;
+    padding: 3px;
 
+    font-weight: 800;
+
+    font-size: 0.8em;
 }
 
 .span-edit-website {

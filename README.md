@@ -21,3 +21,5 @@ descrizione: creando un layout per una lista a scomparsa
 9. creata ultima sezione con lo stesso procedimento delle altre
 
 10. non sono riuscito a fare le spunte e le cross piu piccole e cerchiarle in maniera corretta
+
+11. modificato spunte
